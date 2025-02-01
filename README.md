@@ -1,16 +1,13 @@
-## Hi there 👋
+## Olá! 👋 Eu sou Leonardo
 
-<!--
-**leolimaferreira/leolimaferreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java com experiência em projetos acadêmicos e pessoais.
 
-Here are some ideas to get you started:
+📍 São Paulo, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Atualmente aprimorando minhas habilidades em Java e explorando novas tecnologias para desenvolvimento de software.
+
+🚀 Apaixonado por aprender e aplicar boas práticas de programação em meus projetos.
+
+### 📫 Como me encontrar:
+- LinkedIn: https://www.linkedin.com/in/leonardo-lima-ab1358247/
+- Email: leonardo.limaferreira718@gmail.com
