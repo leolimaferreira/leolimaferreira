@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Java com experiência em projetos acadêmicos e pessoais.
 
-📍 São Paulo, Brasil.
+📍  São Paulo, Brasil.
 
 📚 Atualmente aprimorando minhas habilidades em Java e explorando novas tecnologias para desenvolvimento de software.
 
