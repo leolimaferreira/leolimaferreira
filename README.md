@@ -9,5 +9,5 @@
 🚀 Apaixonado por aprender e aplicar boas práticas de programação em meus projetos.
 
 ### 📫 Como me encontrar:
-- LinkedIn: https://www.linkedin.com/in/leonardo-lima-ab1358247/
+- LinkedIn: https://www.linkedin.com/in/leolimaferreira
 - Email: leonardo.limaferreira718@gmail.com
