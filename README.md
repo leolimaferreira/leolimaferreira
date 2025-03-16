@@ -6,8 +6,6 @@
 
 📚 Atualmente aprimorando minhas habilidades em Java e explorando novas tecnologias para desenvolvimento de software.
 
-🚀 Apaixonado por aprender e aplicar boas práticas de programação em meus projetos.
-
 ## Estatísticas GitHub
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&hide_title=true)
