@@ -20,13 +20,13 @@ Beyond my professional work, I have developed academic and personal projects tha
 
 ---
 
-### 📊 GitHub Stats
+## 📊 My GitHub Stats & Languages
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&theme=default)
-
-### 📈 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact&theme=radical" alt="Top Languages" height="180">
+</p>
 
 ---
 
