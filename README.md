@@ -1,16 +1,17 @@
-## 👋 Hello! I'm Leonardo Lima
+## 👋 Hi, I'm Leonardo Lima
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
 💼 Full Stack Development Intern at Avanade  
 📍 São Paulo, Brazil
 
-I'm passionate about technology and software development, with a focus on building scalable and efficient backend solutions. Currently, I work with Java (Spring Boot), TypeScript, Angular, Microsoft SQL Server, Docker, and Azure, contributing to real-world projects in a corporate environment and collaborating with agile teams.
+I'm passionate about technology and software engineering, with a strong focus on building scalable, efficient backend solutions. My expertise centers around Java (Spring Boot), TypeScript, Angular, and Microsoft Azure.
 
-In addition to my professional experience, I've developed academic and personal projects that have strengthened my problem-solving skills, adaptability to new tools, and ability to deliver high-quality solutions.
+Beyond my professional work, I have developed academic and personal projects that have enhanced my problem-solving abilities, adaptability to new technologies, and commitment to delivering high-quality software.
 
 ---
 
 ### 🚀 Technologies & Tools
+
 - **Backend:** Java, Spring Boot  
 - **Frontend:** Angular, TypeScript  
 - **Databases:** Microsoft SQL Server, PostgreSQL  
@@ -21,8 +22,12 @@ In addition to my professional experience, I've developed academic and personal 
 
 ### 📊 GitHub Stats
 
-!GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&theme=default)
 
 ### 📈 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact)
+
+---
+
+Feel free to connect with me or explore my repositories!
