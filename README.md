@@ -1,21 +1,28 @@
-## Olá! 👋 Eu sou Leonardo
+## 👋 Hello! I'm Leonardo Lima
 
-💻 Desenvolvedor Java com experiência em projetos acadêmicos e pessoais.
+🎓 Systems Analysis and Development student at FATEC Zona Leste  
+💼 Full Stack Development Intern at Avanade  
+📍 São Paulo, Brazil
 
-📍  São Paulo, Brasil.
+I'm passionate about technology and software development, with a focus on building scalable and efficient backend solutions. Currently, I work with Java (Spring Boot), TypeScript, Angular, Microsoft SQL Server, Docker, and Azure, contributing to real-world projects in a corporate environment and collaborating with agile teams.
 
-📚 Atualmente aprimorando minhas habilidades em Java e explorando novas tecnologias para desenvolvimento de software.
-
-## Estatísticas GitHub
-
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&hide_title=true)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact)
+In addition to my professional experience, I've developed academic and personal projects that have strengthened my problem-solving skills, adaptability to new tools, and ability to deliver high-quality solutions.
 
 ---
 
-### 📫 Como me encontrar:
-- LinkedIn: https://www.linkedin.com/in/leolimaferreira
-- Email: leonardo.limaferreira718@gmail.com
+### 🚀 Technologies & Tools
+- **Backend:** Java, Spring Boot  
+- **Frontend:** Angular, TypeScript  
+- **Databases:** Microsoft SQL Server, PostgreSQL  
+- **DevOps:** Docker, Azure, Git, Azure DevOps  
+- **Methodologies:** Scrum, Agile
+
+---
+
+### 📊 GitHub Stats
+
+!GitHub Stats
+
+### 📈 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=
