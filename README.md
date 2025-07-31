@@ -36,4 +36,20 @@ Beyond my professional work, I have developed academic and personal projects tha
 
 ---
 
+## ✨ Featured Project: [Orvian Travel](https://github.com/Orvian-Travel)
+
+Orvian Travel is my main project, where I have worked actively and collaboratively from conception to deployment.  
+I was deeply involved in the database modeling process, and I played a key role in both backend and frontend development.  
+This experience allowed me to apply best practices in software architecture, teamwork, and modern web development.
+
+- **Role:** Lead Developer and Database Designer
+- **Main Contributions:**  
+  - Database modeling  
+  - Backend engineering  
+  - Frontend development
+
+Explore the project for more details about its features and implementation!
+
+---
+
 Feel free to connect with me or explore my repositories!
