@@ -25,4 +25,4 @@ In addition to my professional experience, I've developed academic and personal 
 
 ### 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact)
