@@ -12,11 +12,17 @@ Beyond my professional work, I have developed academic and personal projects tha
 
 ### 🚀 Technologies & Tools
 
-- **Backend:** Java, Spring Boot  
-- **Frontend:** Angular, TypeScript  
-- **Databases:** Microsoft SQL Server, PostgreSQL  
-- **DevOps:** Docker, Azure, Git, Azure DevOps  
-- **Methodologies:** Scrum, Agile
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-29ABE2?style=for-the-badge&logo=agile&logoColor=white)
 
 ---
 
