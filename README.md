@@ -36,19 +36,33 @@ Beyond my professional work, I have developed academic and personal projects tha
 
 ---
 
-## ✨ Featured Project: [Orvian Travel](https://github.com/Orvian-Travel)
+## ✨ Featured Project
 
-Orvian Travel is my main project, where I have worked actively and collaboratively from conception to deployment.  
-I was deeply involved in the database modeling process, and I played a key role in both backend and frontend development.  
-This experience allowed me to apply best practices in software architecture, teamwork, and modern web development.
+<a href="https://github.com/Orvian-Travel" target="_blank">
+  <img src="https://github.com/Orvian-Travel/.github/raw/main/assets/logo.png" alt="Orvian Travel Logo" width="120" align="right"/>
+</a>
 
-- **Role:** Lead Developer and Database Designer
-- **Main Contributions:**  
-  - Database modeling  
-  - Backend engineering  
-  - Frontend development
+### [Orvian Travel](https://github.com/Orvian-Travel)
 
-Explore the project for more details about its features and implementation!
+> **Orvian Travel** is my main project, where I contributed actively from conception to deployment.  
+> I was deeply involved in the **database modeling**, as well as backend and frontend development.  
+> This experience allowed me to apply best practices in software architecture, teamwork, and modern web development.
+
+**My Roles & Contributions:**
+- 🎯 Lead Developer & Database Designer
+- 🗂️ Database modeling
+- ⚙️ Backend engineering
+- 💻 Frontend development
+
+<p align="center">
+  <a href="https://github.com/Orvian-Travel" target="_blank">
+    <img src="https://img.shields.io/github/stars/Orvian-Travel?style=social" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/issues/Orvian-Travel" alt="GitHub issues"/>
+    <img src="https://img.shields.io/github/forks/Orvian-Travel?style=social" alt="GitHub forks"/>
+  </a>
+</p>
+
+> 👉 **Explore the project for more details about its features and implementation!**
 
 ---
 
