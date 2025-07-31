@@ -39,7 +39,7 @@ Beyond my professional work, I have developed academic and personal projects tha
 ## ✨ Featured Project
 
 <a href="https://github.com/Orvian-Travel" target="_blank">
-  <img src="https://github.com/Orvian-Travel/.github/raw/main/assets/logo.png" alt="Orvian Travel Logo" width="120" align="right"/>
+  <img src="[https://github.com/Orvian-Travel/.github/raw/main/assets/logo.png](https://avatars.githubusercontent.com/u/218777610?s=200&v=4)" alt="Orvian Travel Logo" width="120" align="right"/>
 </a>
 
 ### [Orvian Travel](https://github.com/Orvian-Travel)
@@ -53,14 +53,6 @@ Beyond my professional work, I have developed academic and personal projects tha
 - 🗂️ Database modeling
 - ⚙️ Backend engineering
 - 💻 Frontend development
-
-<p align="center">
-  <a href="https://github.com/Orvian-Travel" target="_blank">
-    <img src="https://img.shields.io/github/stars/Orvian-Travel?style=social" alt="GitHub stars"/>
-    <img src="https://img.shields.io/github/issues/Orvian-Travel" alt="GitHub issues"/>
-    <img src="https://img.shields.io/github/forks/Orvian-Travel?style=social" alt="GitHub forks"/>
-  </a>
-</p>
 
 > 👉 **Explore the project for more details about its features and implementation!**
 
