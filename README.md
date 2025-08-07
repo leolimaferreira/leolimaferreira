@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Leonardo Lima
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
-💼 Full Software Engineer Intern at Avanade  
+💼 Full-Stack Software Engineer Intern at Avanade  
 📍 São Paulo, Brazil
 
 I'm passionate about technology and software engineering, with a strong focus on building scalable, efficient backend solutions. My expertise centers around Java (Spring Boot), TypeScript, Angular, and Microsoft Azure.
