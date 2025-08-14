@@ -49,10 +49,11 @@ Beyond my professional work, I have developed academic and personal projects tha
 > This experience allowed me to apply best practices in software architecture, teamwork, and modern web development.
 
 **My Roles & Contributions:**
-- 🎯 Lead Developer & Database Designer
+- 🎯 Database Designer
 - 🗂️ Database modeling
 - ⚙️ Backend engineering
 - 💻 Frontend development
+- 🚀 Deployment management
 
 > 👉 **Explore the project for more details about its features and implementation!**
 
