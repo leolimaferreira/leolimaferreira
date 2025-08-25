@@ -1,30 +1,26 @@
-## 👋 Hi, I'm Leonardo Lima
+<h1 align="center">Hi , I'm Leonardo Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+	
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
 💼 Full-Stack Software Engineer Intern at Avanade  
 📍 São Paulo, Brazil
 
-I'm passionate about technology and software engineering, with a strong focus on building scalable, efficient backend solutions. My expertise centers around Java (Spring Boot), TypeScript, Angular, and Microsoft Azure.
-
-Beyond my professional work, I have developed academic and personal projects that have enhanced my problem-solving abilities, adaptability to new technologies, and commitment to delivering high-quality software.
-
----
-
 ### 🚀 Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=trello&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-29ABE2?style=for-the-badge&logo=agile&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,postgres,mysql,azure,aws,git,github,docker,idea,vscode,postman&perline=14" />
+  </a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 My GitHub Stats & Languages
 
@@ -34,7 +30,7 @@ Beyond my professional work, I have developed academic and personal projects tha
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact&theme=radical" alt="Top Languages" height="180">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✨ Featured Project
 
@@ -57,6 +53,14 @@ Beyond my professional work, I have developed academic and personal projects tha
 
 > 👉 **Explore the project for more details about its features and implementation!**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Feel free to connect with me or explore my repositories!
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Contact with Me! <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="35"></h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/leolimaferreira/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
