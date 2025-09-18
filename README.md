@@ -9,7 +9,7 @@
 <br><br>
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
-💼 Full-Stack Software Engineer Intern at Avanade  
+💼 Software Engineer Intern at Avanade  
 📍 São Paulo, Brazil
 
 ### 🚀 Technologies & Tools
