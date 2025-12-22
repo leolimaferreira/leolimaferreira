@@ -10,7 +10,17 @@
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
 💼 Software Engineer Intern at Avanade  
-📍 São Paulo, Brazil
+📍 São Paulo, Brazil  
+💡 Passionate about building scalable and efficient solutions  
+🌱 Currently learning advanced Spring Boot and cloud architecture
+
+### 🎯 What I Do
+
+- 🔨 Build full-stack applications with modern frameworks
+- 🏗️ Design and implement database architectures
+- ☁️ Deploy and manage cloud infrastructure
+- 🤝 Collaborate on innovative software solutions
+- 📚 Constantly learning and improving my skills
 
 ### 🚀 Technologies & Tools
 
@@ -22,12 +32,28 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=leolimaferreira&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 📊 My GitHub Stats & Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact&theme=radical" alt="Top Languages" height="180">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leolimaferreira&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leolimaferreira&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -51,7 +77,30 @@
 - 💻 Frontend development
 - 🚀 Deployment management
 
-> 👉 **Explore the project for more details about its features and implementation!**
+## 💼 Professional Experience
+
+### Software Engineer Intern @ Avanade
+*Current Position*
+
+- 🔧 Developing enterprise-level applications
+- 🤝 Working with agile methodologies and modern tech stacks
+- 📈 Contributing to cloud-based solutions
+- 🎯 Learning industry best practices and software patterns
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Education & Certifications
+
+**Systems Analysis and Development**  
+FATEC Zona Leste - São Paulo, Brazil
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
