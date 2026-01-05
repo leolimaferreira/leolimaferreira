@@ -9,7 +9,7 @@
 <br><br>
 
 🎓 Systems Analysis and Development student at FATEC Zona Leste  
-💼 Software Engineer Intern at Avanade  
+💼 Software Engineer Junior at Avanade  
 📍 São Paulo, Brazil  
 💡 Passionate about building scalable and efficient solutions  
 🌱 Currently learning advanced Spring Boot and cloud architecture
