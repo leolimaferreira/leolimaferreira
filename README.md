@@ -25,9 +25,7 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,angular,postgres,mysql,azure,aws,git,github,docker,idea,vscode,postman&perline=14" />
-  </a>
+    <img <img width="850" height="280" alt="image" src="https://github.com/user-attachments/assets/0b6b5f14-054d-4f35-a2a3-11cf39eaba32"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -35,40 +33,17 @@
 ## 📊 My GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leolimaferreira&show_icons=true&theme=radical" alt="GitHub Stats" height="180">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leolimaferreira&layout=compact&theme=radical" alt="Top Languages" height="180">
+  <img width="850" height="240" alt="image" src="https://github.com/user-attachments/assets/7aa2c64c-860f-43ea-8856-1752112ca12f" alt="Top Languages" height="180">
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leolimaferreira&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img width="850" height="180" alt="image" src="https://github.com/user-attachments/assets/c086f5d6-23f9-44d8-b7cc-d27dd25baa10" alt="Contribution Graph" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## ✨ Featured Project
-
-<a href="https://github.com/Orvian-Travel" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/218777610?s=200&v=4" alt="Orvian Travel Logo" width="120" align="right"/>
-</a>
-
-### [Orvian Travel](https://github.com/Orvian-Travel)
-
-> **Orvian Travel** is my main project, where I contributed actively from conception to deployment.  
-> I was deeply involved in the **database modeling**, as well as **backend** and **frontend** development.  
-> This experience allowed me to apply best practices in software architecture, teamwork, and modern web development.
-
-**My Roles & Contributions:**
-- 🎯 Database Designer
-- 🗂️ Database modeling
-- ⚙️ Backend engineering
-- 💻 Frontend development
-- 🚀 Deployment management
 
 ## 💼 Professional Experience
 
-### Software Engineer Intern @ Avanade
+### Software Engineer Jr @ Avanade
 *Current Position*
 
 - 🔧 Developing enterprise-level applications
