@@ -25,7 +25,7 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-    <img <img width="850" height="280" alt="image" src="https://github.com/user-attachments/assets/0b6b5f14-054d-4f35-a2a3-11cf39eaba32"/>
+    <img width="850" height="280" alt="image" src="https://github.com/leolimaferreira/galaxy-profile/blob/556117512527700d2d2eb040fe2f074a1bcda603/assets/generated/galaxy-header.svg"/>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -33,12 +33,12 @@
 ## 📊 My GitHub Stats & Languages
 
 <p align="center">
-  <img width="850" height="240" alt="image" src="https://github.com/user-attachments/assets/7aa2c64c-860f-43ea-8856-1752112ca12f" alt="Top Languages" height="180">
+  <img width="850" height="240" alt="image" src="https://github.com/leolimaferreira/galaxy-profile/blob/556117512527700d2d2eb040fe2f074a1bcda603/assets/generated/tech-stack.svg" alt="Top Languages" height="180">
 </p>
 
 
 <p align="center">
-  <img width="850" height="180" alt="image" src="https://github.com/user-attachments/assets/c086f5d6-23f9-44d8-b7cc-d27dd25baa10" alt="Contribution Graph" />
+  <img width="850" height="180" alt="image" src="https://github.com/leolimaferreira/galaxy-profile/blob/556117512527700d2d2eb040fe2f074a1bcda603/assets/generated/stats-card.svg" alt="Contribution Graph" />
 </p>
 
 ## 💼 Professional Experience
